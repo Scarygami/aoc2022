@@ -4,8 +4,8 @@ My attempts at solving the daily coding challenges of [Advent of Code 2022](http
 
 | Day | Language / Tool                                 |
 | --- | ----------------------------------------------- |
-| 1   |                                                 |
-| 2   |                                                 |
+| 1   | Excel                                           |
+| 2   | Python                                          |
 | 3   |                                                 |
 | 4   |                                                 |
 | 5   |                                                 |
