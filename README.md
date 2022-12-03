@@ -6,7 +6,7 @@ My attempts at solving the daily coding challenges of [Advent of Code 2022](http
 | --- | ----------------------------------------------- |
 | 1   | Excel                                           |
 | 2   | Python                                          |
-| 3   |                                                 |
+| 3   | Python / Regex                                  |
 | 4   |                                                 |
 | 5   |                                                 |
 | 6   |                                                 |
