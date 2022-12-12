@@ -14,8 +14,8 @@ def parse_stacks(lines):
 
     for row in range(len(lines) - 2, -1, -1):
         for col in range(count):
-            if col*4 + 1 < len(lines[row]):
-                crate = lines[row][col*4 + 1]
+            if col * 4 + 1 < len(lines[row]):
+                crate = lines[row][col * 4 + 1]
                 if crate != " ":
                     stacks[col].append(crate)
 
@@ -24,11 +24,7 @@ def parse_stacks(lines):
 
 def parse_command(line):
     matches = re.match("move ([0-9]+) from ([0-9]+) to ([0-9]+)", line)
-    return (
-        int(matches.group(1)),
-        int(matches.group(2)) - 1,
-        int(matches.group(3)) - 1
-    )
+    return (int(matches.group(1)), int(matches.group(2)) - 1, int(matches.group(3)) - 1)
 
 
 def parse_commands(lines):

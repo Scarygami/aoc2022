@@ -11,10 +11,10 @@ My attempts at solving the daily coding challenges of [Advent of Code 2022](http
 | 5   | Python                                          |
 | 6   | Google Sheets                                   |
 | 7   | Python                                          |
-| 8   |                                                 |
-| 9   |                                                 |
-| 10  |                                                 |
-| 11  |                                                 |
+| 8   | Python                                          |
+| 9   | Python                                          |
+| 10  | Python                                          |
+| 11  | Python                                          |
 | 12  |                                                 |
 | 13  |                                                 |
 | 14  |                                                 |
