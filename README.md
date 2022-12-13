@@ -15,8 +15,8 @@ My attempts at solving the daily coding challenges of [Advent of Code 2022](http
 | 9   | Python                                          |
 | 10  | Python                                          |
 | 11  | Python                                          |
-| 12  |                                                 |
-| 13  |                                                 |
+| 12  | Python                                          |
+| 13  | Python                                          |
 | 14  |                                                 |
 | 15  |                                                 |
 | 16  |                                                 |
