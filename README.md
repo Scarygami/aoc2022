@@ -17,10 +17,10 @@ My attempts at solving the daily coding challenges of [Advent of Code 2022](http
 | 11  | Python                                          |
 | 12  | Python                                          |
 | 13  | Python                                          |
-| 14  |                                                 |
-| 15  |                                                 |
-| 16  |                                                 |
-| 17  |                                                 |
+| 14  | Python                                          |
+| 15  | Python                                          |
+| 16  | Python                                          |
+| 17  | Python                                          |
 | 18  |                                                 |
 | 19  |                                                 |
 | 20  |                                                 |
